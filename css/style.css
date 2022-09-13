@@ -1,0 +1,278 @@
+body {
+    margin: 0px;
+    font-family: 'Archivo', sans-serif;
+    background-image: url(../image/background.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main-container {
+    margin: 0px;
+    width: auto;
+    height: 1514.2px;
+}
+
+.profile-picture {
+    width: 168px;
+    height: 170px;
+    position: absolute;
+    top: -115px;
+    right: 46px;
+    border-radius: 45px;
+}
+
+.a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: black;
+}
+
+.icon-sidebar {
+    width: 16.5px;
+    height: 16.5px;
+    margin-right: 10px;
+}
+
+.head-div-sidebar {
+    position: relative;
+    top: 63px;
+    text-align: center;
+
+}
+
+.div-sidebar {
+    height: 365.4px;
+    border-radius: 20px;
+    background-color: rgb(210, 218, 255);
+}
+
+.second-div-sidebar {
+    background-color: burlywood;
+    border-radius: 25px;
+    margin-top: 150px;
+    width: 260px;
+    position: fixed;
+    margin-left: 80px;
+
+}
+
+.button {
+    background-color: rgb(177, 178, 255);
+    border-radius: 25px;
+    position: fixed;
+    top: 555px;
+    left: 152px;
+    padding: 10px 20px;
+    border: 0px;
+}
+
+.div-web {
+    background-color: rgb(177, 178, 255);
+    border-radius: 11px;
+    width: 195px;
+    padding: 4px;
+    position: relative;
+    left: 28px;
+}
+
+h1 {
+    display: inline-block;
+    font-size: 20px;
+}
+
+.div-icon-sidbar {
+    border-radius: 20px;
+    position: relative;
+    top: 105px;
+    padding-left: 15px;
+    background-color: rgb(210, 218, 255);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-top-right-radius: 0px;
+    border-top-left-radius: 0px;
+}
+
+.merge {
+    margin-bottom: -2px;
+}
+
+.about-me {
+    background-color: rgb(238, 241, 255);
+    border-radius: 20px;
+    width: 870px;
+    height: 1252px;
+    position: relative;
+    left: 390px;
+    top: 148px;
+}
+
+.about-me-h2 {
+    padding-top: 25px;
+    margin-left: 20px;
+    font-size: 2rem;
+    margin-bottom: 18px;
+}
+
+h3 {
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 0px;
+    border-top: 5px solid rgb(177, 178, 255);
+    border-radius: 17px;
+    width: 55px
+}
+
+.text-aboutme {
+    line-height: 1.6;
+    margin-top: 3px;
+    font-size: 1.1rem;
+    margin-left: 20px;
+    padding-right: 70px;
+}
+
+.eductional-color {
+    background-color: rgb(230, 234, 255);
+    margin-top: 50px;
+}
+
+.h2-eductional {
+    font-size: 1.5rem;
+    text-align: center;
+    position: relative;
+    top: 25px;
+}
+
+.pic-eductional {
+    width: 40px;
+    height: 40px;
+    padding: 28px 22px;
+}
+
+.div-eductional {
+    background-color: rgb(238, 241, 255);
+    display: inline-block;
+    width: 300px;
+    height: 100px;
+    border-radius: 15px;
+
+}
+
+.h2-div-eductional {
+    font-size: 1rem;
+
+}
+
+.second-div-eductional {
+    position: relative;
+    left: 90px;
+    bottom: 87px;
+}
+
+.one {
+    position: relative;
+    left: 70px;
+    top: 54px;
+}
+
+.two {
+    position: relative;
+    left: 190px;
+    top: 54px;
+}
+
+.three {
+    padding-left: 130px;
+    position: relative;
+    left: 138px;
+    top: 40px;
+    width: 420px;
+
+}
+
+.last-div {
+    background-color: rgb(238, 241, 255);
+    margin-top: 50px;
+    height: 615px;
+    border-radius: 20px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+
+.contact-me-h2 {
+    text-align: center;
+    padding-top: 28px;
+    margin-bottom: 60px;
+}
+
+.form {
+    border-radius: 7px;
+    border: 1px solid black;
+    width: 300px;
+    height: 25px;
+    margin-top: 8px;
+}
+
+.form-div {
+    background-color: rgb(210, 218, 255);
+    display: inline-block;
+    padding: 30px;
+    margin-left: 35px;
+    border-radius: 15px;
+}
+
+.button-form {
+    background-color: rgb(177, 178, 255);
+    border-radius: 25px;
+    position: relative;
+    padding: 10px 20px;
+    border: 0px;
+    top: 10px;
+}
+
+.button-form:hover {
+    background-color: lightseagreen;
+}
+
+.width {
+    border-radius: 7px;
+    border: 1px solid black;
+    width: 300px;
+    height: 150px;
+    margin-top: 8px;
+}
+
+.last-div-cntact {
+    display: inline-block;
+    width: 400px;
+    position: relative;
+    left: 20px;
+    bottom: 130px;
+    height: 315px;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.position {
+    position: relative;
+    left: 25px;
+}
+
+.button:hover {
+    background-color: lightseagreen;
+}
+
+input:focus {
+    background-color: rgb(209, 233, 241);
+}
+
+textarea:focus {
+    background-color: rgb(209, 233, 241);
+}
+
+.inline {
+    display: inline-block;
+}
